@@ -1,0 +1,4 @@
+# For more information on the Security Insights file, see https://security-insights.openssf.org/
+header:
+  schema-version: 2.2.0
+  url: https://github.com/evan-testing-minder/.github/raw/main/.github/security-insights.yml
