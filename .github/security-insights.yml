@@ -4,17 +4,15 @@ header:
   url: https://github.com/evan-testing-minder/.github/raw/main/.github/security-insights.yml
   last-updated: "2001-01-01"
   last-reviewed: "2001-01-01"
-
 project:
   name: ".github"
   administrators: []
   repositories:
-  - name: ".github"
-    url: https://github.com/evan-testing-minder/.github
+    - name: .github
+      url: https://github.com/evan-testing-minder/.github
   vulnerability-reporting:
     reports-accepted: false
     bug-bounty-available: false
-
 repository:
   url: https://github.com/evan-testing-minder/.github
   status: active
@@ -26,3 +24,4 @@ repository:
     expression: "Unknown"
   security:
     assessments: {}
+  documentation: {}
