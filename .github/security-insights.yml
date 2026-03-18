@@ -1,0 +1,33 @@
+# For more information on the Security Insights file, see https://security-insights.openssf.org/
+header:
+  last-reviewed: "2026-03-18"
+  last-updated: "2026-03-18"
+  schema-version: 2.2.0
+  url: https://raw.githubusercontent.com/evan-testing-minder/.github/main/.github/security-insights.yml
+project:
+  administrators:
+  - name: evankanderson
+    primary: false
+  name: .github
+  repositories:
+  - comment: null
+    name: .github
+    url: https://github.com/evan-testing-minder/.github
+  vulnerability-reporting:
+    bug-bounty-available: false
+    policy: https://github.com/evan-testing-minder/.github/blob/main/SECURITY.md
+    reports-accepted: true
+repository:
+  accepts-automated-change-request: true
+  accepts-change-request: true
+  core-team:
+  - name: evankanderson
+    primary: false
+  documentation:
+    security-policy: https://github.com/evan-testing-minder/.github/blob/main/SECURITY.md
+  license: {}
+  security:
+    assessments: {}
+  status: active
+  url: https://github.com/evan-testing-minder/.github
+
